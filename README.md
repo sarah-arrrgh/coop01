@@ -1,2 +1,2 @@
-# coop01
+# Petone Real Food Co-op
 First try at the Petone co-op project

@@ -1,3 +1,3 @@
 #Planning
 
-##[User Experience](https://github.com/sarah-arrrgh/coop01/tree/planning/UX)
+##[User Experience](https://github.com/sarah-arrrgh/coop01/tree/master/planning/UX)
